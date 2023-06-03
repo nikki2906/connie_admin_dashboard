@@ -1,0 +1,49 @@
+{
+    "nonprofits": [
+      {
+        "id": "1",
+        "name": "Alzheimer’s Foundation of America ",
+        "cause": "Alzheimer's disease",
+        "point_of_contact": "John Doe",
+        "phone_number": "(663) 483-4084"
+      },
+      {
+        "id": "2",
+        "name": "Meals on Wheels America ",
+        "cause": "Free healthy food",
+        "point_of_contact": "Jame Doe",
+        "phone_number": "(663) 483-4084"
+      },
+      {
+        "id": "3", 
+        "name": "Pets for the Elderly ",
+        "cause": "Companionship",
+        "point_of_contact": "John Smith",
+        "phone_number": "(663) 483-4084"
+      },
+      {
+        "id": "4",
+        "name": "American Association of Retired People",
+        "cause": "Financial assistance",
+        "point_of_contact": "Jane Smith",
+        "phone_number": "(663) 483-4084"
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "name": "Jon Doe",
+        "phone_number": "(663) 483-4084"
+      },
+      {
+        "id": "2",
+        "name": "Jane Doe",
+        "phone_number": "(663) 483-4084"
+      },
+      {
+        "id": "3",
+        "name": "Jane Smith",
+        "phone_number": "(663) 483-4084"
+      }
+    ]
+  }
